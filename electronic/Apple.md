@@ -15,7 +15,7 @@
 
 - MacBook Pro (Retina, 15-inch, Mid 2015) 银色
 
-- MacBook Pro 13-inch 2019 深空灰色
+- MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports) 深空灰色
 
 
 **iPad**
