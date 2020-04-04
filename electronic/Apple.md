@@ -1,14 +1,14 @@
 **iPhone**
 
-- iPhone 5 16GB 白色
+- iPhone 5 16GB 白色 A1429
 
-- iPhone 6s 64GB 玫瑰金色
+- iPhone 6s 64GB 玫瑰金色 A1700
 
-- iPhone 7 Plus 32GB 黑色
+- iPhone 7 Plus 32GB 黑色 A1661
 
 - iPhone 7 Plus 皮革保护壳 黑色
 
-- iPhone Xs Max 64GB 金色
+- iPhone Xs Max 64GB 金色 A2104
 
 
 **Mac**
