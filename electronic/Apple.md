@@ -4,6 +4,8 @@
 
 - iPhone 6s 64GB 玫瑰金色 A1700
 
+- iPhone 7 128GB 玫瑰金色 A1660
+
 - iPhone 7 Plus 32GB 黑色 A1661
 
 - iPhone 7 Plus 皮革保护壳 黑色
