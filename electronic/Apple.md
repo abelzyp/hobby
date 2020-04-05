@@ -24,7 +24,7 @@
 
 **iPad**
 
-- iPad Air 2 WLAN 16GB 金色 A2152
+- iPad Air 2 WLAN 16GB 金色 A1566
 
 
 **Music**
