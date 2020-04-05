@@ -24,11 +24,11 @@
 
 **iPad**
 
-- iPad Air 2 WLAN 16GB 金色
+- iPad Air 2 WLAN 16GB 金色 A2152
 
 
 **Music**
 
-- AirPods
+- AirPods A1523+A1722 A1602
 
-- AirPods 2
+- AirPods2 A2032+A2031 A1602
