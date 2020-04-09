@@ -1,3 +1,3 @@
 **耳机**
 
-- Quiet Comfort QC35 二代 黑色 主动降噪
+- Bose® QuietComfort® 35 II 无线耳机 黑色 主动降噪
