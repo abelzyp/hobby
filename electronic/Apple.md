@@ -34,3 +34,8 @@
 - AirPods2 A2032、A2031 A1602
 
 - AirPods Pro A2084、A2083 A2190
+
+
+**Watch**
+
+- Apple Watch Series 5 GPS 40mm A2092 深空灰色
