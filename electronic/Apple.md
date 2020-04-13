@@ -8,8 +8,6 @@
 
 - iPhone 7 Plus 32GB 黑色 A1661
 
-- iPhone 7 Plus 皮革保护壳 黑色
-
 - iPhone Xs Max 64GB 金色 A2104
 
 
@@ -39,3 +37,10 @@
 **Watch**
 
 - Apple Watch Series 5 GPS 40mm A2092 深空灰色
+
+
+**配件**
+
+- iPhone 7 Plus 皮革保护壳 黑色
+
+- Apple USB-C 至 USB 转换器
