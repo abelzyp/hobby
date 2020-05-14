@@ -5,4 +5,4 @@
 
 **数据线**
 
-- CB12B 罗马仕 lightning数据充电线 黑色 尼龙编织线
+- CB12B 罗马仕 USB to Lightning 数据充电线 黑色 尼龙编织线
