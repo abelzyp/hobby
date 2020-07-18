@@ -12,3 +12,5 @@
 - BLN-AL10 Honor 荣耀畅玩 6X 4GB 64GB 冰河银 全网通
 
 - JSN-AL00 Honor 荣耀 8X 6GB 128GB 魅海蓝 全网通
+
+- TEL-AN00a Honor 荣耀 X10 8GB 128GB 光速银
