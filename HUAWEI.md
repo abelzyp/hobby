@@ -9,8 +9,10 @@
 
 **手机**
 
-- BLN-AL10 Honor 荣耀畅玩 6X 4GB 64GB 冰河银 全网通
+- BLN-AL10 荣耀畅玩 6X 4GB 64GB 冰河银 全网通
 
-- JSN-AL00 Honor 荣耀 8X 6GB 128GB 魅海蓝 全网通
+- JSN-AL00 荣耀 8X 6GB 128GB 魅海蓝 全网通
 
-- TEL-AN00a Honor 荣耀 X10 8GB 128GB 光速银
+- TEL-AN00a 荣耀 X10 8GB 128GB 光速银
+
+- DUA-AL00 荣耀畅玩7 2GB 16GB 蓝色
