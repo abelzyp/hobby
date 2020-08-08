@@ -12,6 +12,8 @@
 
 - iPhone Xs Max 64GB 金色 A2104
 
+- iPhone 11 128GB 绿色 A2223
+
 
 **Mac**
 
