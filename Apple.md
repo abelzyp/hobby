@@ -45,6 +45,8 @@
 
 **配件**
 
-- iPhone 7 Plus 皮革保护壳 黑色
+- MRG92FE iPhone 7 Plus 皮革保护壳 黑色
 
-- Apple USB-C 至 USB 转换器
+- MJ1M2FE Apple USB-C 至 USB 转换器
+
+- MY192FE iPhone 11 硅胶保护壳 黑色
