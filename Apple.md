@@ -50,3 +50,5 @@
 - MJ1M2FE Apple USB-C 至 USB 转换器
 
 - MWVU2FE/A iPhone 11 硅胶保护壳 黑色
+
+- MHJ83CH/A A2244 20W USB-C 电源适配器
