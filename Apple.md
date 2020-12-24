@@ -14,6 +14,8 @@
 
 - iPhone 11 128GB 绿色 A2223
 
+- iPhone 12 Pro 128GB 海蓝色 A2408
+
 
 **Mac**
 
