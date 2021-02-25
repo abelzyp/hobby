@@ -30,6 +30,8 @@
 
 - iPad Air 2 WLAN 16GB 金色 A1566
 
+- iPad 8代 无线局域网 128GB 深空灰色 A2270 PYLD2CH/A
+
 
 **Music**
 
