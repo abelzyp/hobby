@@ -4,7 +4,7 @@
 
 - iPhone 5 16GB 黑色 A1442
 
-- iPhone 6s 64GB 玫瑰金色 A1700
+- iPhone 6s Plus 64GB 玫瑰金色 A1688
 
 - iPhone 7 128GB 玫瑰金色 A1660
 
