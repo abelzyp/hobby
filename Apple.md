@@ -25,6 +25,8 @@
 
 - MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports) 深空灰色 MacBookPro15,4
 
+- MacBook Pro (16-inch, 2019, 四个雷雳 3 (USB-C) 端口) 银色 MacBookPro16,1
+
 
 **iPad**
 
