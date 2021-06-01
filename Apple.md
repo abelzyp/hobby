@@ -17,7 +17,7 @@
 - iPhone 12 Pro 128GB 海蓝色 A2408
 
 
-**Mac**
+**MacBook**
 
 - MacBook Pro (13-inch, Mid 2012) 银色 MacBookPro9,2
 
@@ -35,7 +35,7 @@
 - iPad 8代 无线局域网 128GB 深空灰色 A2270 PYLD2CH/A
 
 
-**Music**
+**AirPods**
 
 - AirPods A1523、A1722 A1602
 
@@ -44,7 +44,7 @@
 - AirPods Pro A2084、A2083 A2190
 
 
-**Watch**
+**Apple Watch**
 
 - Apple Watch Series 5 GPS 40mm A2092 深空灰色
 
